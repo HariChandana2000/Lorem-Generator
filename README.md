@@ -1,3 +1,3 @@
 # Lorem Generator (React + Vite)
 
-[Hosted Link](https://github.com/HariChandana2000/Lorem-Generator)
+[Hosted Link](https://lucent-otter-caff83.netlify.app/)
